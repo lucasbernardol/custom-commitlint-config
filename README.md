@@ -1,4 +1,4 @@
-## @lucasbernardol/custom-commitlint-config
+## @lucasbernardolira/custom-commitlint-config
 
 > My personal 📓 Commitlint config
 
