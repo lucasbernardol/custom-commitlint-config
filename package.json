@@ -1,8 +1,27 @@
 {
-  "name": "custom-commitlint-config",
-  "version": "1.0.0",
+  "name": "@lucasbernardol/custom-commitlint-config",
+  "version": "0.0.1",
   "main": "index.js",
-  "repository": "https://github.com/lucasbernardol/custom-commitlint-config.git",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasbernardol/custom-commitlint-config.git"
+  },
   "author": "lucasbernardol <jose.lukass03@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "conventional-changelog",
+    "commitlint",
+    "commitlint-config",
+    "custom config",
+    "config"
+  ],
+  "bugs": {
+    "url": "https://github.com/lucasbernardol/custom-commitlint-config/issues"
+  },
+  "engines": {
+    "node": ">=v12"
+  }
 }
