@@ -2,6 +2,11 @@
 
 > My personal 📓 Commitlint config
 
+<div>
+  <img alt="GitHub" src="https://img.shields.io/github/license/lucasbernardol/custom-commitlint-config?color=%235D8BF4&style=flat-square">
+
+  <img alt="npm" src="https://img.shields.io/npm/v/@lucasbernardolira/custom-commitlint-config?color=%235D8BF4&style=flat-square">
+</div>
 ## :arrow_down: Install
 
 - Install with [yarn](https://yarnpkg.com/)
