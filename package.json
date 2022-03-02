@@ -1,5 +1,5 @@
 {
-  "name": "@lucasbernardol/custom-commitlint-config",
+  "name": "@lucasbernardolira/custom-commitlint-config",
   "version": "0.0.1",
   "main": "index.js",
   "files": [
@@ -8,7 +8,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/lucasbernardol/custom-commitlint-config.git"

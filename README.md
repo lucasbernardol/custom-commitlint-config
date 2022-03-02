@@ -7,9 +7,9 @@
 - Install with [yarn](https://yarnpkg.com/)
 
 ```bash
-$ yarn add @commitlint/cli @lucasbernardol/custom-commitlint-config -D
+$ yarn add @commitlint/cli @lucasbernardolira/custom-commitlint-config -D
 
-$ echo "module.exports = {extends: ['@lucasbernardol/custom-commitlint-config']};" > commitlint.config.js
+$ echo "module.exports = {extends: ['@lucasbernardolira/custom-commitlint-config']};" > commitlint.config.js
 ```
 
 ### 📝 License
